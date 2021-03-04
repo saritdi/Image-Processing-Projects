@@ -1,7 +1,3 @@
-"""
-Sarit Divekar - 327373684
-Hadar Bar-Oz - 204460737
-"""
 import cv2
 import numpy as np
 
