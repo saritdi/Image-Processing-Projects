@@ -1,8 +1,4 @@
 Assignment 3
-Author 1: Sarit Divekar
-ID: 327373684
-Author 2: Hadar Bar oz
-ID: 204460737
 
 **Introduction
 	In this exercise, given a pair of images like the ones above, we will sew them to create a panoramic scene.
