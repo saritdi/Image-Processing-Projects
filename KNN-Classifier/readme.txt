@@ -1,8 +1,4 @@
 Assignment 2 - OCR of Handwritten Hebrew
-Author 1: Sarit Divekar
-ID: 327373684
-Author 2: Hadar Bar oz
-ID: 204460737
 
 **Introduction
 	In this project you will use the k-Nearest Neighbor algorithm to classify images of letters from a repository HHD_0,
